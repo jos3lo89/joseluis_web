@@ -216,6 +216,8 @@ section {
     gap: 20px;
     padding-top: 60px;
     padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 .actividades p b {
